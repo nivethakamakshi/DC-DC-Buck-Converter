@@ -1,0 +1,21 @@
+
+# LTspice simulation output
+*.raw
+*.log
+*.op.raw
+*.fft
+*.net
+*.bak
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# VS Code settings
+.vscode/
